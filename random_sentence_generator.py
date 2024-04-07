@@ -56,5 +56,5 @@ while True:
     noun = get_random_word(nouns)
     adverb = get_random_word(adverbs)
     detail = get_random_word(details)
-    print(f"{name} from {city} {adverb} {verb} {noun}.")
+    print(f"{name} from {city} {adverb} {verb} {noun} {detail}.")
     input("Click [Enter] to generate a new one.")
