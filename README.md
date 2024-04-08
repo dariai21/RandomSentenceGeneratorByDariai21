@@ -30,10 +30,6 @@ Details: A list of location details.
 # Example Output: 
 Alice from Tokyo quickly runs dog.
 
-# Contribution
-
-Contributions to add more words or details to the lists or improve the script's functionality are welcome. Simply fork the repository, make your changes, and submit a pull request.
-
 # Live Demo
 You can play the game directly in your browser here:
 
